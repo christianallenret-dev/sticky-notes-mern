@@ -1,0 +1,35 @@
+.user-input {
+    width: 30%;
+    margin: 50px auto;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(0, 0, 0, 0.165);
+}
+
+.user-input button {
+    margin-top: 8px;
+}
+
+.noData {
+    width: 80%;
+    margin: 50px auto;
+    padding: 5em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(0, 0, 0, 0.165);
+    text-align: center;
+}
+
+.user-notes {
+    width: 80%;
+    margin: 50px auto;
+    padding: 5em;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgb(0, 0, 0, 0.165);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; /* spacing between cards */
+}
+
+.action-buttons button{
+    margin: 0 10px;
+}
