@@ -18,7 +18,7 @@ A simple MERN full stack web application that allows users to create, update, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sticky-notes.git
+git clone https://github.com/christianallenret-dev/sticky-notes-mern.git
 
 # Install backend dependencies
 cd server
